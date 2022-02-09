@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(0, 0, 0);
+}
+
+.gif {
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 2px;
+  margin: 15px;
+  display: flex;
+}
+
+.gifs {
+  margin: 0 auto;
+  width: 80%;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.title{
+  font-size: 15px;
+  color: white;
+  font-weight: 600;
+}
